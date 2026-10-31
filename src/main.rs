@@ -2,6 +2,6 @@ fn main() {
     println!("Hello, world!");
     let chizlo = 100;
     println!("chizlo: {}", chizlo);
-    let chizlo = "Stringi";
+    let chizlo = chizlo + 52;
     println!("chizlo: {}", chizlo);
 }
